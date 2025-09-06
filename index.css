@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    background : #1C1C1C;
+}
+
+#mainBlock {
+    background: #1F2937;
+    width: 550px;
+    height: 550px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#h1 {
+    font-family: Karla;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 40px;
+    color: white;
+    padding-top: 115px;
+    padding-left: 52px;
+    margin-bottom: 0px;
+}
+
+#h2 {
+    font-family: Karla;
+    font-weight: 800;
+    font-style: ExtraBold;
+    font-size: 40px;
+    letter-spacing: -2.5%;
+    color: #10B981;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 52px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: #D5D4D8;
+    padding-left: 52px;
+    margin-top: 8px;
+}
+
+button {
+    margin-left: 52px;
+    background: #10B981;
+    color: white;
+    width: 191px;
+    height: 42px;
+    border-radius: 6px;
+    border: none;
+}
+
+hr {
+    margin-left: 52px; 
+    margin-right: 52px;
+    margin-top: 20px;
+    color: #9CA3AF;
+}
+
+.outputBlock {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.psw {
+    height: 39px;
+    width: 211px;
+    background: #273549;
+    border-radius: 6px;
+    font-family: Inter;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    text-align: center;
+    line-height: 39px;
+    color: #55F991;
+    margin-bottom: 0px;
+}
+
